@@ -84,6 +84,15 @@
       position: relative;
       left: -20px;
     }
+	   #box1 {
+      background-color: black;
+      border: none;
+      margin-top: -9px;
+      margin-left: -9px;
+      margin-right: -9px;
+      height: 90px;
+      display: flex;
+    }
       body {
         background-image: url("https://i.pinimg.com/736x/85/03/1f/85031fae88d8d6ac9d00186931579ad3.jpg");
         color: #ffd9e7;
