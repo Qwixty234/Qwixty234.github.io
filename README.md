@@ -1,4 +1,4 @@
-#Qwixty234.github.io
+Qwixty234.github.io
 
 theme: jekyll-theme-minimal
 title: Octocat's homepage
