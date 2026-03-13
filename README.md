@@ -1,5 +1,1 @@
-Qwixty234.github.io
-
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+This is a website I had created a while ago, though I'm definitely gonna add in a new version of it from my neocities account ^^
