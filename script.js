@@ -15,3 +15,4 @@
     window.onload=function(){
     if(!document.layers)set('scrolltitle()',1000);
     }
+    </script>
