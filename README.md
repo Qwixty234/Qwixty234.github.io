@@ -1,1 +1,2 @@
-This is a website I had created a while ago, though I'm definitely gonna add in a new version of it from my neocities account ^^
+<h1> Here's the neocities website !! </h1>
+<h> I've been trying to work on it but I get less motivatinoal after a while.. </h>
