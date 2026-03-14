@@ -7,7 +7,7 @@
     if(index<=titletext.length){
     document.title=titletext.substring(0,index);
     index++;
-    set'scrolltitle()', 200);
+    set'scrolltitle()', 200;
     }else{
     index=0;
     if(repeat)set('scrolltitle()',1000);
