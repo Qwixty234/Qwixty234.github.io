@@ -1,21 +1,28 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=1024, initial-scale=1">
     <title>Loveli3ws!!</3</title>
-    <link rel="icon" type="image/gif" href="https://i205.photobucket.com/albums/bb186/mhilkas/favoicons/icon3.gif">
-    <link href="/repo-name/css/style.css" rel="stylesheet" type="text/css" media="all">
-  <style>
-    h1 {
-         font-size: 312.5%;
-         color: purple;
-         font-family: coronet script;
-         text-align: center;
-         margin: auto;
-         margin-top: 10px;
-      }
-  </style>
+    <link rel="icon" type="image/gif" href="http://i205.photobucket.com/albums/bb186/mhilkas/favoicons/icon3.gif">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <script language="javascript">
+    var titletext="L o v e l i 3 w s ! !"
+    var repeat=true;
+    set=setTimeout;
+    var index=0;
+    function scrolltitle(){
+    if(index<=titletext.length){
+    document.title=titletext.substring(0,index);
+    index++;
+    set('scrolltitle()', 200);
+    }else{
+    index=0;
+    if(repeat)set('scrolltitle()',1000);
+    }}
+    window.onload=function(){
+    if(!document.layers)set('scrolltitle()',1000);
+    }
+    </script>
   </head>
   <body>
     <h1>El postre de Qwixt</h1>
