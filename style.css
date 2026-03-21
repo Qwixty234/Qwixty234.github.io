@@ -62,4 +62,29 @@
         border-radius: 25px;
         filter: blur(5px);
       }
+    h1 {
+    font-size: 312.5%;
+    color: purple;
+    font-family: coronet script;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    }
+    .contenedor {
+    width: 940px;
+    height: auto;
+    border: 1px solid grey;
+    margin: auto;
+    margin-top: 20px;
+    background-image: url(https://i.pinimg.com/736x/a2/da/dd/a2dadd2bc7285dffaa2c67b2152cc280.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: center;
+    }
+    #texto-final {
+    margin-top: 10px;
+    font-family: optima;
+    }
     </style>
