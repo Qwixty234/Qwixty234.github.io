@@ -1,4 +1,12 @@
       <style>
+      h1 {
+         font-size: 312.5%;
+         color: purple;
+         font-family: coronet script;
+         text-align: center;
+         margin: auto;
+         margin-top: 10px;
+        }
       #main-text {
          text-align: center;
          font-family: optima;
@@ -48,7 +56,9 @@
         width: 100px;
         height: auto;
       }
+      </style>
       <!--yatora esta conectado con los sellos1-->
+      <style>
       #texto-final {
         margin-top: 10px;
         font-family: optima;
